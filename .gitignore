@@ -4,3 +4,5 @@ docs/html
 
 node_modules
 *.tgz
+# macOS system files
+._*
