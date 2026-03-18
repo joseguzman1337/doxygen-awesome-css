@@ -1,8 +1,0 @@
-docs/html
-.DS_Store
-.idea
-
-node_modules
-*.tgz
-# macOS system files
-._*
